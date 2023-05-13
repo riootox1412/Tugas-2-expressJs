@@ -1,0 +1,1 @@
+http://localhost:8080/biodata?nama=rio&tempat=bandung&tanggal=14122002&alamat=Jl.%20Paseh%20-%20Kamojang
